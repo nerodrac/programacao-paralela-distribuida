@@ -1,0 +1,6 @@
+INFO: Usuário está logado
+ERRO: Falha de conexão
+INFO: Página carregada
+AVISO: Pouco espaço disponível
+INFO: Usuário entrou
+ERRO: Database conexão perdida
